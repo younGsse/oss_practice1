@@ -1,0 +1,1 @@
+git diff와 git diff --cached의 차이를 확인하기 위한 실습
